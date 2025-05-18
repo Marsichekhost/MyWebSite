@@ -1,0 +1,16 @@
+.txtmain{
+    font-size: large;
+    font-family: Impact, fantasy;
+
+}
+#patch{
+    font-size: small;
+    padding-left:65% ;
+}
+body{
+    background-color:#161617;
+    color: white;
+}
+.hover:hover{
+    opacity: 50%;
+}
