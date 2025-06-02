@@ -14,3 +14,7 @@ body{
 .hover:hover{
     opacity: 50%;
 }
+table img{
+    width: 50%;
+    height: 50%;
+}
